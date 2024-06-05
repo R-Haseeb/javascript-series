@@ -1,0 +1,18 @@
+.pin-container input {
+    width: 35px;
+    font-size: 32px;
+    padding: 5px;
+    text-align: center;
+    border-radius: 5px;
+    margin: 2px;
+    border: 2px solid #55525c;
+    font-weight: bold;
+    outline: none;
+    transition: all 0.1s;
+    text-transform: uppercase;
+}
+
+.pin-container input:focus{
+    border: 2px solid #27ffa9;
+    box-shadow: 0 0 2px 2px #27ffd76a;
+}

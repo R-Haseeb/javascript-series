@@ -1,0 +1,14 @@
+/* #outer{
+    width: 800px;
+    height: 500px;
+    background-color: bisque;
+    border: 2px solid rgb(245, 167, 71);
+    margin: 0 auto;
+    padding: 0 20px;
+} */
+
+#test {
+    width: 150px;
+    height: 150px;
+    background-color: red;
+}

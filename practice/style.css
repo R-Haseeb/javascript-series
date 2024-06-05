@@ -1,0 +1,7 @@
+body #myButton {
+    background-color: red;
+}
+#myButton {
+    padding: 10px;
+    background-color: green;
+}
